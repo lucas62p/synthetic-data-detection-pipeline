@@ -18,8 +18,8 @@ This repository summarizes a research project focused on **Synthetic Data Genera
 ## Results & Methodology
 The project explores the transition from purely synthetic datasets to hybrid (synthetic + real) training strategies. 
 
-You can access the full technical presentation detailing the methodology, data samples, and training convergence curves here:
-**[View Technical Presentation (PDF)](./presentation_results.pdf)**
+You can access the full presentation detailing the ablation study I conducted:
+**[Ablation Study Presentation (PDF)](./docs/ablation_study.pdf)**
 
 ## Training Performance
 The results demonstrate the model's ability to maintain robustness despite varying conditions (occlusions, lighting, distractors). The included logs track the convergence of the models over training iterations, providing insights into the impact of synthetic data on the overall mAP.
